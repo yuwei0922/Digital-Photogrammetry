@@ -1,6 +1,5 @@
-# WHURS-PDP
- Practices of Digital Photogrammetry in Wuhan University
-
+# Digital Photogrammetry
+ A C++ project which implements dense matching and TIN interpolation to generate Digital Elevation Models with varying levels of accuracy.
 ## DM
 Dense Matching
 
